@@ -1,7 +1,9 @@
 /*CSS document */
 
 body {
-  background-color: #3582c4;
+margin: 0 auto;
+max-width: 1400px;
+  ;
 }
 
 h1 {
